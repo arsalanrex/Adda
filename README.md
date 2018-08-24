@@ -1,6 +1,8 @@
 # Adda
 A whatsapp-like chat application created using firebase as the backend. 
 
+---------------------------------------------------------------------------------------------------------------------------------
+
 Steps to use the repo:
 
 1. Clone the repo and save it locally.
